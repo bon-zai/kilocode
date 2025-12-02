@@ -1,5 +1,6 @@
 {
-	"name": "kilo-code",
+	"name": "zai-iha-client",
+	"description": "Zai Integrated Hybrid Agent GUI Client for VS Code (fork of Kilo Code)",
 	"packageManager": "pnpm@10.8.1",
 	"engines": {
 		"node": "20.19.2"

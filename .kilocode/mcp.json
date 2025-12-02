@@ -1,0 +1,11 @@
+{
+	"servers": {
+		"zai-prime-orchestrator": {
+			"transport": "sse",
+			"url": "https://orchestrator.zai.example.com/mcp",
+			"metaTools": ["router", "mem0-memory", "quality-gate"],
+			"lazy": true,
+			"description": "Primary Zai Prime Orchestrator MCP hub for model routing and delegated tasks"
+		}
+	}
+}
