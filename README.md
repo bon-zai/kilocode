@@ -1,22 +1,22 @@
+> Modified for the Zai Integrated Hybrid Agent (IHA) GUI Client rebrand.
+
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code"><img src="https://img.shields.io/badge/VS_Code_Marketplace-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Marketplace"></a>
-  <a href="https://x.com/kilocode"><img src="https://img.shields.io/badge/kilocode-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)"></a>
-  <a href="https://blog.kilo.ai"><img src="https://img.shields.io/badge/Blog-555?style=flat&logo=substack&logoColor=white" alt="Substack Blog"></a>
-  <a href="https://kilo.ai/discord"><img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
-  <a href="https://www.reddit.com/r/kilocode/"><img src="https://img.shields.io/badge/Join%20r%2Fkilocode-D84315?style=flat&logo=reddit&logoColor=white" alt="Reddit"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=kilocode.Kilo-Code"><img src="https://img.shields.io/badge/Zai_IHA_Client-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code Marketplace"></a>
+  <a href="https://zai.example.com"><img src="https://img.shields.io/badge/Zai_Prime-000000?style=flat&logo=x&logoColor=white" alt="Zai Prime"></a>
+  <a href="https://zai.example.com/blog"><img src="https://img.shields.io/badge/Zai_Blog-555?style=flat&logo=substack&logoColor=white" alt="Zai Blog"></a>
+  <a href="https://zai.example.com/discord"><img src="https://img.shields.io/badge/Join%20Zai%20Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
-# 🚀 Kilo Code
+# 🚀 Zai Integrated Hybrid Agent (IHA) Client
 
-> Kilo is an open-source VS Code AI agent. We frequently merge features from open-source projects while building our own vision.
+> Zai IHA is the rebranded VS Code AI agent experience wired to the Zai Prime Orchestrator and MCP-first workflows, inheriting the open-source lineage from Kilo Code while adopting the Zai personality and guardrails.
 
-- ✨ Generate code from natural language
-- ✅ Checks its own work
+- ✨ Generate code from natural language with Zai's sarcastic-but-helpful guidance
+- ✅ Enforces Zai's Mandatory Quality Gate and safety rails
 - 🧪 Run terminal commands
 - 🌐 Automate the browser
-- 🤖 Latest AI models
+- 🤖 Routes to Zai Prime Orchestrator MCP hub and Azure AI Foundry-hosted models
 - 🎁 API keys optional
-- 💡 **Get $20 in bonus credits when you top-up for the first time** Credits can be used with 400+ models like Gemini 3 Pro, Claude 4 Sonnet & Opus, and GPT-5
 
 <p align="center">
   <img src="https://media.githubusercontent.com/media/Kilo-Org/kilocode/main/kilo.gif" width="100%" />

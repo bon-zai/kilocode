@@ -1,3 +1,4 @@
+// Modified for Zai IHA Client to support Azure AI Foundry routing via ANTHROPIC_BASE_URL.
 import {
 	ContentBlockParam,
 	MessageCreateParams,
@@ -36,7 +37,7 @@ import {
 import { BaseLlmApi, CreateRerankResponse, FimCreateParamsStreaming, RerankCreateParams } from "./base.js"
 
 export class AnthropicApi implements BaseLlmApi {
-	apiBase: string = "https://api.anthropic.com/v1/"
+	apiBase: string = process.env.ANTHROPIC_BASE_URL ?? "https://api.anthropic.com/v1/"
 
 	constructor(
 		protected config: AnthropicConfig & {
